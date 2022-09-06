@@ -1,4 +1,4 @@
-# webpack-upload-cdn-plugin
+# webpack-upload-cdn-assets-plugin
 
 静态文件发布cdn 的 webpack plugin
 
@@ -10,7 +10,7 @@
 
 ### 下载
 
-npm i webpack-upload-cdn-plugin -g
+npm i webpack-upload-cdn-assets-plugin -D
 
 ### 引用
 
@@ -19,7 +19,7 @@ npm i webpack-upload-cdn-plugin -g
 vue.config.js
 
 ```
-const UploadCdnPlugin = require('webpack-upload-cdn-plugin');
+const UploadCdnPlugin = require('webpack-upload-cdn-assets-plugin');
 
 module.exports = {
   publicPath: 'https://xxx/xxx/xxx',  // 打包后的静态文件通用前缀

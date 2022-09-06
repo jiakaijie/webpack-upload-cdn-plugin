@@ -1,4 +1,4 @@
-# webpack-upload-cdn-plugin
+# webpack-upload-cdn-assets-plugin
 
 静态文件发布cdn webpack plugin
 (上传包使用好未来内部包，外部不能使用)
@@ -23,3 +23,7 @@ npm install
 npm login 完成
 
 npm publish
+
+## 其他
+
+包名和文件夹名称不一致，因为npm上已经存在一个包
