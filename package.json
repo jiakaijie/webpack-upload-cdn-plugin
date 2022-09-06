@@ -1,0 +1,25 @@
+{
+  "name": "webpack-upload-cdn-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiakaijie/webpack-upload-cdn-plugin.git"
+  },
+  "keywords": ["node.js", "webpack", "plugin", "upload"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiakaijie/webpack-upload-cdn-plugin/issues"
+  },
+  "homepage": "https://github.com/jiakaijie/webpack-upload-cdn-plugin#readme",
+  "dependencies": {
+    "@xes/tal-oss": "^2.2.20",
+    "fs-extra": "^10.1.0"
+  },
+  "files": [
+    "src/"
+  ]
+}
