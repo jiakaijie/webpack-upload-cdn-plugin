@@ -8,7 +8,12 @@
     "type": "git",
     "url": "git+https://github.com/jiakaijie/webpack-upload-cdn-plugin.git"
   },
-  "keywords": ["node.js", "webpack", "plugin", "upload"],
+  "keywords": [
+    "node.js",
+    "webpack",
+    "plugin",
+    "upload"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
